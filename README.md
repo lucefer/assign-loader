@@ -47,8 +47,8 @@ module:{
           test: /\.(css|scss)$/,
           //设置后缀对应的加载器.
           loader: ExtractTextPlugin.extract({
-          loader: 'css-loader?modules'
-        })
+            loader: 'css-loader?modules'
+          })
         }
     ]
   }
