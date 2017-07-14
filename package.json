@@ -1,0 +1,11 @@
+{
+  "name": "assign-loader",
+  "version": "1.0.0",
+  "description": "a compiler to transform a syntax which can assign for some variables to javascript syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.test.js"
+  },
+  "author": "lucefer",
+  "license": "MIT"
+}
